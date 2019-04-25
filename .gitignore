@@ -1,0 +1,11 @@
+#j'ignore les jpg
+*.jpg
+*.pkl
+*.png
+*.pth
+#j'ignore les dossiers data
+semaine4/projetchaussures/data/
+semaine4/projetmaladiepeau/data/
+semaine5/projet_multilabel_decor/data/
+semaine5/projet_multilabel_decor/{data2}/
+
